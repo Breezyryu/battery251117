@@ -1,0 +1,14 @@
+[project]
+name = "battery251027"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "ipynb>=0.5.1",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "pyodbc>=5.3.0",
+    "seaborn>=0.13.2",
+]
